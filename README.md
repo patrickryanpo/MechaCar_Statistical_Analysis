@@ -25,3 +25,17 @@ Lot Summary:
 
 As presented by the tables above, Lot1 and Lot2 meet the design specification of the variance not exceeding 100 PSI. However, Lot3 was not able to meet this specification. Despite this, the total summary variance indicates that the cumulative variance for all three lots meet the design specification. 
 
+## T-Tests on Suspension Coils
+
+Manufacturing Lot:
+![Manufacturing Lot]()
+
+Lot 1:
+![Lot1]()
+
+Lot 2: 
+![Lot2]()
+
+Lot 3: 
+![Lot3]()
+
