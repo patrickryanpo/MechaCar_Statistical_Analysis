@@ -18,10 +18,10 @@ Our linear model can predict the mpg of MechaCar prototypes based on out R-squar
 ## Summary Statistics on Suspension Coils
 
 Total Summary:
-![total summary](https://github.com/patrickryanpo/MechaCar_Statistical_Analysis/blob/main/Resources/LM_Summary.png)
+![total summary](https://github.com/patrickryanpo/MechaCar_Statistical_Analysis/blob/main/Resources/total_summary.png)
 
 Lot Summary:
-![Lot Summary](https://github.com/patrickryanpo/MechaCar_Statistical_Analysis/blob/main/Resources/LM_Summary.png)
+![Lot Summary](https://github.com/patrickryanpo/MechaCar_Statistical_Analysis/blob/main/Resources/lot_summary.png)
 
 As presented by the tables above, Lot1 and Lot2 meet the design specification of the variance not exceeding 100 PSI. However, Lot3 was not able to meet this specification. Despite this, the total summary variance indicates that the cumulative variance for all three lots meet the design specification. 
 
