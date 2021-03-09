@@ -4,10 +4,10 @@ R
 ## Linear Regression to Predict MPG
 Linear Regression: 
 
-![Linear Regression Image]()
+![Linear Regression Image](https://github.com/patrickryanpo/MechaCar_Statistical_Analysis/blob/main/Resources/LM.png)
 
 Summary of Linear Regression:
-![Summary of Linear Regression]()
+![Summary of Linear Regression](https://github.com/patrickryanpo/MechaCar_Statistical_Analysis/blob/main/Resources/LM_Summary.png)
 
 Based on the Pr(>|t|) values presented, we can say that intercept,vehicle length, and ground clearance variables provided a non-random amount of variance to the mpg values in the dataset. 
 
