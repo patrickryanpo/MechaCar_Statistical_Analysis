@@ -28,14 +28,21 @@ As presented by the tables above, Lot1 and Lot2 meet the design specification of
 ## T-Tests on Suspension Coils
 
 Manufacturing Lot:
-![Manufacturing Lot]()
+![Manufacturing Lot](https://github.com/patrickryanpo/MechaCar_Statistical_Analysis/blob/main/Resources/ttest_ManufLot.png)
+
+The p-value for the all manufacturing lots, which is at 1, is above our standard significant level of 0.05. Hence, we can say that we do not have sufficient evidence to reject the null hypothesis. 
 
 Lot 1:
-![Lot1]()
+![Lot1](https://github.com/patrickryanpo/MechaCar_Statistical_Analysis/blob/main/Resources/ttest_lot1.png)
+
+The p-value for Lot 1, which is at 9.35e-12, is below our standard significant level of 0.05. Hence, we can say that we have sufficient evidence to reject the null hypothesis. 
 
 Lot 2: 
-![Lot2]()
+![Lot2](https://github.com/patrickryanpo/MechaCar_Statistical_Analysis/blob/main/Resources/ttest_lot2.png)
+
+The p-value for Lot 2, which is at 0.0005082, is below our standard significant level of 0.05. Hence, we can say that we have sufficient evidence to reject the null hypothesis. 
 
 Lot 3: 
-![Lot3]()
+![Lot3](https://github.com/patrickryanpo/MechaCar_Statistical_Analysis/blob/main/Resources/ttest_lot3.png)
 
+The p-value for Lot 3, which is at 0.1549, is above our standard significant level of 0.05. Hence, we can say that we do not have sufficient evidence to reject the null hypothesis. 
