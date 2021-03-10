@@ -46,3 +46,29 @@ Lot 3:
 ![Lot3](https://github.com/patrickryanpo/MechaCar_Statistical_Analysis/blob/main/Resources/ttest_lot3.png)
 
 The p-value for Lot 3, which is at 0.1549, is above our standard significant level of 0.05. Hence, we can say that we do not have sufficient evidence to reject the null hypothesis. 
+
+## Study Design: MechaCar vs Competition
+
+The statistical study that will quantify how MechaCar performs against the competition can be done using an ANOVA test. Through this ANOVA test, we will be measuring data that are of interest to consumers. We will be comparing how MechaCar compares to competitors in terms of: 
+
+- Fuel Efficiency
+- Maintenance Cost
+- Safety Rating
+- Market Value
+
+Tests will be limited to vehicles released within the last ten (10) years. Each category will be tested individually against the competition in order to gain a clearer understanding on which categories MechaCar may improve upon. Non-numerical or continuous variables will be converted accordingly in order to run the tests successfully. 
+
+# Hypothesis
+
+Null Hypothesis: MechaCar variables will have no difference in scores in comparison to their competitors.
+
+Alternate Hypothesis: Mechacar variables will show a difference in scores in comparison to their competitors.
+
+# Statistical Study 
+The statistical test to be used will be the ANOVA test. The ANOVA test is ideal in this study as it allows for comparison of the means for MechaCar and competitors. 
+
+# Data
+Data will be collected from customers that use MechaCar and its competitors. Fuel efficiency and safety rating data can be collected per user. Maintenance cost data may be acquired through the various repairshops. When it comes to market value, it would be ideal to collect data from various authorized dealerships and other buy and sell dealerships. 
+
+
+
